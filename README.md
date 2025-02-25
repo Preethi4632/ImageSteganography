@@ -110,6 +110,6 @@ Contributions are welcome! Feel free to submit **issues** or **pull requests**.
 ## **Author**  
 
 👤 **Your Name**  
-🔗 GitHub:  (Preethi4632)
+🔗 GitHub: https://github.com/Preethi4632 (Preethi4632)
 
 ---
